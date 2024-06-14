@@ -1,4 +1,4 @@
-```mermaid
+``` mermaid
 classDiagram
     Iphone <|-- ReprodutorMusical
     Iphone <|-- AparelhoTelefonico
